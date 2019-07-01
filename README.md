@@ -5,11 +5,16 @@
 # Problem than can Jeetu_Bhayia can solve
 
   --> let you know the current time.
+  
   --> play music.
-  --> Any content on wikipidea
-  --> let you know the weather
-  --> Sending Emails
-  --> Take you to some important browser with voice
+  
+  --> Any content on wikipidea.
+  
+  --> let you know the weather.
+  
+  --> Sending Emails.
+  
+  --> Take you to some important browser with voice.
   
               . Youtube
               . Google
@@ -20,9 +25,13 @@
 # Libary used
 
   --> pyttsx3  
+  
   --> speech_recognition
+  
   --> wikipedia
+  
   --> webbrowser
+  
   --> smtplib
 
 Note: internet conntection reqiured for speech_recognition to work properly.
