@@ -1,6 +1,6 @@
 # Jeetu_Bhayia
 
-  Jeetu bhayia as an assistance for helping students. First it recognize you , if you are the student of his class it start communicate     with you and try to solve your problem and if you are new to him its first ask you details of yours and then try to solve problem.
+  Jeetu bhayia is an AI assistance for helping students. First it recognize you , if you are the student of his class it start communicating   with you and try to solve your problems and if you are new to him its first ask your details and then try to solve your problems.
   
 # Problem than can Jeetu_Bhayia can solve
 
